@@ -2,14 +2,20 @@
 
 <!--
 **stephen-three/stephen-three** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-#### 
-My name is Stephen Johnson and I'm trying to become a junior developer within the next year
+### About Me:
+My name is Stephen Johnson and I'm working towards becoming a junior developer.
 
-Currently, I'm working on a number of guitar effects pedals utilizing the Electro-Smith Daisy platform.
-I’m currently learning ...
+Currently, I’m learning Go and Python and planning to learn  I'm also working on a number of guitar effects pedals utilizing the [Electro-Smith Daisy platform](https://www.electro-smith.com/daisy/daisy).
+I’m learning Go and Python at the moment.
+
+📫 Email me at stephen.johnson.third@gmail.com
+
+:relaxed: Pronouns: He/Him 
+
+### :hammer_and_wrench: Languages & Tools:
+![](https://img.shields.io/badge/Editor-VSCode-svg?style=flat&logo=VisualStudioCode&logoColor=white&color=0ee85e)
+![](https://img.shields.io/badge/Code-C++-svg?style=flat&logo=c%2B%2B&logoColor=white&color=0ee85e)
 
 
-📫 Contact Me:
-  Email- stephen.johnson.third@gmail.com
-😄 Pronouns: He/Him
