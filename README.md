@@ -7,8 +7,7 @@
 ### About Me:
 My name is Stephen Johnson and I'm working towards becoming a junior developer.
 
-Currently, I’m learning Go and Python and planning to study machine learning as well as HTML & CSS. I'm also working on a number of guitar effects pedals utilizing the [Electro-Smith Daisy platform](https://www.electro-smith.com/daisy/daisy).
-I’m learning Go and Python at the moment.
+Currently, I’m learning Go and Python and planning to study machine learning as well as HTML & CSS. I'm also working on a number of guitar effects pedals utilizing the [Electro-Smith Daisy platform](https://www.electro-smith.com/daisy/daisy). Some of my plans are to learn HTML & CSS, study machine learning, and try my hand at creating a few games.
 
 📫 Email me at stephen.johnson.third@gmail.com
 
